@@ -9,8 +9,9 @@ This research was **accepted and published at FAST ICETST'S 3RD CONFERENCE 2024*
 ---
 ## Proof of Publication
 This research was published at **FAST ICT 2024**. Supporting documentation includes:
-- **Screenshot of Accepted Paper:** ![View Here](proofs/paper_screenshot.png)
-- **Official Email Confirmation:** ![View Here](proofs/email_confirmation.png)
+- **Screenshot of Accepted Paper:** ![Paper_Acceptance info](Research_paper_info.png)
+
+- **Official Email Confirmation:** ![Resaerch Paper Email](research_paper_email.PNG)
 
 ## Acknowledgments
 We would like to extend our sincere gratitude to the following:  
